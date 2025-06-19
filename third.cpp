@@ -18,5 +18,5 @@ int main() {
     cout << "Simple interest : " << s << endl;
 
     return 0;
-
+// this is just mt practice session going on 
 }
